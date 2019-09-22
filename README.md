@@ -1,1 +1,1 @@
-https://primapsa.github.io/rsschool-cv/
+https://primapsa.github.io/rsschool-cv/cv
