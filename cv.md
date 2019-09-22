@@ -21,7 +21,7 @@ E-mail: prima.psa@gmail.com
 
 ## Skills:
 ***
-LAN/WAN networking technologies, PHP, MySQL,HTML,CSS
+LAN/WAN networking technologies, PHP, MySQL, HTML, CSS
 
 ## English:
 ***
