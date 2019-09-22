@@ -1,0 +1,19 @@
+.wrapper {   
+  margin: 0 auto; 
+  width: 1024px;  
+}
+
+.container {
+  position: relative;  
+}
+
+h2 {   
+  padding-bottom: 5px;
+  border-bottom: 1px solid #eaecef;
+}
+
+img {
+  position: absolute;
+  top: 50px;
+  right: 0;
+}
