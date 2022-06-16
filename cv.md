@@ -6,7 +6,7 @@ Birthday: 11.02.1989
 Residence: Belarus, Minsk
 
 
-Phone: 3752966157**
+Phone: 375296615729
 
 E-mail: prima.psa@gmail.com
 
@@ -21,7 +21,7 @@ E-mail: prima.psa@gmail.com
 
 ## Skills:
 ***
-LAN/WAN networking technologies, PHP, MySQL, HTML, CSS
+LAN/WAN networking technologies, PHP, MySQL, HTML, CSS, JS
 
 ## English:
 ***
